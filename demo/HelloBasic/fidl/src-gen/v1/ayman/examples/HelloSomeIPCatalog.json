@@ -1,0 +1,8 @@
+{
+    "ayman.examples.Hello" : {
+        "service_id": 4660,
+        "instances" : {
+            "ayman.examples.justSendHi": 22136
+        }
+    }
+}

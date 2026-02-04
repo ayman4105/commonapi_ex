@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelloWorld_CommonAPI_Demo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloWorldClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloWorldClient-Debug-8adb32384d4a939f128a.json",
+					"name" : "HelloWorldClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloWorldServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloWorldServer-Debug-85e237a0e3ac1647d301.json",
+					"name" : "HelloWorldServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+		"source" : "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

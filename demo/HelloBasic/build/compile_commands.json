@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldServer.dir/SRC/Server.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC/Server.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC/Server.cpp",
+  "output": "CMakeFiles/HelloWorldServer.dir/SRC/Server.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp",
+  "output": "CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp",
+  "output": "CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp",
+  "output": "CMakeFiles/HelloWorldServer.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldClient.dir/SRC/Client.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC/Client.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC/Client.cpp",
+  "output": "CMakeFiles/HelloWorldClient.dir/SRC/Client.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp",
+  "output": "CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPDeployment.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp",
+  "output": "CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPProxy.cpp.o"
+},
+{
+  "directory": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build",
+  "command": "/usr/bin/g++  -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/SRC -I/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen -isystem /usr/local/include/CommonAPI-3.2 -isystem /home/ayman/ITI/fady/VSomeIP/commonapi/capicxx-someip-runtime/include -g -std=gnu++17 -o CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp.o -c /home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp",
+  "file": "/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp",
+  "output": "CMakeFiles/HelloWorldClient.dir/fidl/src-gen/v1/ayman/examples/HelloSomeIPStubAdapter.cpp.o"
+}
+]

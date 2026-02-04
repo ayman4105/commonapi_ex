@@ -1,0 +1,4 @@
+/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build/CMakeFiles/HelloWorldServer.dir
+/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build/CMakeFiles/HelloWorldClient.dir
+/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build/CMakeFiles/edit_cache.dir
+/home/ayman/ITI/fady/VSomeIP/commonapi/demo/HelloBasic/build/CMakeFiles/rebuild_cache.dir
