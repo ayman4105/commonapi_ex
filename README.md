@@ -131,8 +131,8 @@ define org.genivi.commonapi.someip.deployment for provider as Service {
 Run:
 
 ```bash
-commonapi-generator -sk hello.fidl
-commonapi-someip-generator hello.fdepl
+/home/ayman/ITI/fady/VSomeIP/commonapi/commonapi_core_generator/commonapi-core-generator-linux-x86_64 -sk hello.fidl
+/home/ayman/ITI/fady/VSomeIP/commonapi/commonapi_someip_generator/commonapi-someip-generator-linux-x86_64 hello.fdepl
 ```
 
 Generated result:
